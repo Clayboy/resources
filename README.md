@@ -5,6 +5,9 @@
 
 - http://www.coverr.co (free videos for websites covers)
 - http://foodiesfeed.com (food free images)
+- https://pixabay.com/
+- http://negativespace.co/
+- https://unsplash.com/
 
 
 ### usefull jquery plugins
