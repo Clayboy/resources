@@ -10,7 +10,9 @@
 - https://unsplash.com/
 
 
-### usefull jQuery plugins
+### Usefull jQuery plugins
+
+- Selectize : http://brianreavis.github.io/selectize.js
 
 
 ### CSS / JS UI Kits
