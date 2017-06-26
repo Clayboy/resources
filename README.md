@@ -13,7 +13,7 @@
 ### Usefull jQuery plugins
 
 - Selectize : http://brianreavis.github.io/selectize.js
-
+- Fancybox (galery) : http://fancyapps.com/fancybox/3/docs/#embedding
 
 ### CSS / JS UI Kits
 
