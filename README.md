@@ -14,6 +14,7 @@
 
 - Selectize : http://brianreavis.github.io/selectize.js
 - Fancybox (galery) : http://fancyapps.com/fancybox/3/docs/#embedding
+- Slick (galery) : http://kenwheeler.github.io/slick/
 
 ### CSS / JS UI Kits
 
