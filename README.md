@@ -20,3 +20,4 @@
 
 - http://getbootstrap.com
 - http://www.getmdl.io
+- https://github.com/lokesh-coder/pretty-checkbox
